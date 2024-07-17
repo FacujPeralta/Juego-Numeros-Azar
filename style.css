@@ -1,8 +1,15 @@
 body {
     text-align: center;
   }
-  
+  .cuadro{
+    border: 2px solid black;
+    padding: 15rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+  }
   h1 {
+    font-size: 50px;
+    margin-top: 20px;
     color: #333;
     font-family: Arial, sans-serif;
   }
@@ -20,6 +27,9 @@ body {
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
+  }
+ .subtitulo{
+    font-size: 25px;
   }
   
   #mensaje {
