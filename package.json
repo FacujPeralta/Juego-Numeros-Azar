@@ -1,0 +1,11 @@
+{
+  "name": "base-juego-adivinanza-js-master",
+  "version": "1.0.0",
+  "description": "[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
